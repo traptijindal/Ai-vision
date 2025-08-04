@@ -1,0 +1,82 @@
+{
+    "file_name": "PDF.pdf",
+    "emergency_lighting_summary": {
+        "from_schedule_count": {
+            "total_emergency_lights": 0,
+            "2x4_recessed_led_luminaire": 0,
+            "wallpack_with_photocell": 0,
+            "other_emergency_fixtures": []
+        },
+        "detected_lights_on_layouts": {
+            "page_8": [
+                {
+                    "bbox": [
+                        414,
+                        249,
+                        436,
+                        262
+                    ],
+                    "area": 182.5
+                },
+                {
+                    "bbox": [
+                        795,
+                        37,
+                        818,
+                        56
+                    ],
+                    "area": 390.0
+                }
+            ],
+            "page_9": [
+                {
+                    "bbox": [
+                        793,
+                        35,
+                        817,
+                        54
+                    ],
+                    "area": 406.0
+                }
+            ],
+            "page_12": [
+                {
+                    "bbox": [
+                        793,
+                        38,
+                        817,
+                        56
+                    ],
+                    "area": 384.0
+                }
+            ],
+            "page_13": [
+                {
+                    "bbox": [
+                        791,
+                        36,
+                        814,
+                        54
+                    ],
+                    "area": 372.0
+                }
+            ],
+            "page_15": [
+                {
+                    "bbox": [
+                        795,
+                        37,
+                        818,
+                        55
+                    ],
+                    "area": 372.0
+                }
+            ]
+        }
+    },
+    "extracted_content": {
+        "file_name": "PDF.pdf",
+        "general_notes": "",
+        "lighting_schedule": []
+    }
+}

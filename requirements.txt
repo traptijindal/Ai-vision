@@ -1,0 +1,8 @@
+PyMuPDF
+opencv-python
+numpy
+pytesseract
+Pillow
+matplotlib
+transformers
+torch
