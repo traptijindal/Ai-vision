@@ -17,7 +17,8 @@ The pipeline is designed to address a common challenge in construction planning:
 
 The project is organized into a modular structure for clarity and maintainability:
 
-<img width="324" height="346" alt="image" src="https://github.com/user-attachments/assets/63d2b9be-ed77-4df4-8a38-dfc58f3a088b" />
+<img width="331" height="307" alt="image" src="https://github.com/user-attachments/assets/e57ef711-c727-47be-ac9c-ed64319b1935" />
+
 
 
 ## Setup Instructions
