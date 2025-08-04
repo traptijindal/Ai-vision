@@ -16,21 +16,9 @@ The pipeline is designed to address a common challenge in construction planning:
 ## Folder Structure
 
 The project is organized into a modular structure for clarity and maintainability:
-vision_takeoff/
-├── data/
-│   ├── PDF.pdf             # The input electrical drawing
-│   └── (other input files)
-├── src/
-│   ├── detector.py         # Code for detecting shaded areas (light fixtures)
-│   ├── data_extractor.py   # Code for parsing text from OCR output
-│   ├── pdf_processor.py    # Handles PDF to image conversion and OCR
-│   └── main.py             # Main entry point for the application
-├── output/
-│   ├── report_PDF.json     # The final structured output report
-│   ├── detected_lights_... # Visualizations of detected fixtures for verification
-│   └── (other output files)
-├── requirements.txt        # List of Python dependencies
-└── README.md
+
+<img width="324" height="346" alt="image" src="https://github.com/user-attachments/assets/63d2b9be-ed77-4df4-8a38-dfc58f3a088b" />
+
 
 ## Setup Instructions
 
